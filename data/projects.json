@@ -1,0 +1,5 @@
+[
+  {"id":"demo-1","title":"نوا استودیو","category":"طراحی و توسعه وب","description":"تجربه‌ای مینیمال برای یک استودیوی خلاق، با تمرکز بر جزئیات و حرکت‌های ظریف.","tags":["Next.js","UI/UX","Motion"],"image":"","url":"","github":"","featured":true,"published":true,"createdAt":"2026-11-01T00:00:00.000Z"},
+  {"id":"demo-2","title":"داشبورد اوربیت","category":"فول‌استک و داشبورد","description":"داشبورد تحلیلی با نمودارهای کاربردی، مدیریت داده و رابط کاربری منظم.","tags":["React","Dashboard","API"],"image":"","url":"","github":"","featured":true,"published":true,"createdAt":"2026-11-02T00:00:00.000Z"},
+  {"id":"demo-3","title":"فروشگاه مونو","category":"فروشگاه اینترنتی","description":"فروشگاهی با مسیر خرید روان، طراحی ریسپانسیو و تجربه خرید سریع.","tags":["E-commerce","Full Stack","UX"],"image":"","url":"","github":"","featured":true,"published":true,"createdAt":"2026-11-03T00:00:00.000Z"}
+]
