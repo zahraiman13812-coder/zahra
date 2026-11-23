@@ -5,11 +5,12 @@ import {
   motion
 } from 'motion/react';
 import type {
+  MotionStyle,
   TargetAndTransition,
   Transition,
   Variant,
   Variants,
-} from 'motion/react'
+} from 'motion/react';
 import React from 'react';
 
 export type PresetType = 'blur' | 'fade-in-blur' | 'scale' | 'fade' | 'slide';
@@ -35,7 +36,7 @@ export type TextEffectProps = {
   segmentWrapperClassName?: string;
   containerTransition?: Transition;
   segmentTransition?: Transition;
-  style?: React.CSSProperties;
+  style?: MotionStyle;
 };
 
 const defaultStaggerTimes: Record<PerType, number> = {
